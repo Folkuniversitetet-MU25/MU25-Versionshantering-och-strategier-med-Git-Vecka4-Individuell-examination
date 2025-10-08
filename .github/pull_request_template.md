@@ -1,11 +1,13 @@
 ## Syfte
-Varför behövs denna förändring?
+Varför behövs denna PR? Vilket problem/nytta adresseras?
 
 ## Ändringar
 - Punktlista över vad som ändrats (kod/fil/funktion)
 
 ## Test
-Hur testade du? (manuellt, skärmdump, steg-för-steg)
+Hur testade du? (manuellt, skärmdump) Beskriv gärna teststeg:
+1) ...
+2) ...
 
 ## Länkar
 - Issue/kort: <URL> (använd gärna "Closes #<nummer>")
