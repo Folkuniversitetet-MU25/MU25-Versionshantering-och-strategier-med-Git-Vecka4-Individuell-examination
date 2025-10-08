@@ -1,10 +1,10 @@
 # Reflektion – Git & Agilt (1–2 sidor)
 
-## 1) Egen user story + Acceptance Criteria
+## 1) Egen user story + Acceptance Criteria + INVEST
+
 **Story:** Som <roll> vill jag <mål> så att <nytta>.
 
 **Acceptance Criteria (checkboxar):**
-- [ ] ...
 - [ ] ...
 - [ ] ...
 
@@ -26,7 +26,7 @@ Vilka av I, N, V, E, S, T uppfyller storyn och varför?
 - [ ] README uppdaterad
 - [ ] Issue/kort länkat och stängt vid merge
 
-## 3) Start / Stop / Continue
+## 3) Retro: Start / Stop / Continue
 - **Start:** (ex. skriva tydligare PR-beskrivningar…)
 - **Stop:** (ex. stora PR över 300 rader…)
 - **Continue:** (ex. branch-namn `feature/...`)
@@ -34,6 +34,6 @@ Vilka av I, N, V, E, S, T uppfyller storyn och varför?
 Minst **en** konkret förbättring du provar nästa sprint och *varför*.
 
 
-## 4) Hänvisningar (om du söker VG)
+## 4) Hänvisningar (VG)
 - Förbättring 1 stöds av PR/commit: <länk/ID>
 - Förbättring 2 stöds av PR/commit: <länk/ID>
