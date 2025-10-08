@@ -26,7 +26,9 @@ Visa Git-flöde (feature-branch → PR → review → merge), hantera minst 1 ko
 - Vid **Squash & merge** blir PR-titel och beskrivning commit-meddelandet → skriv dem tydligt.
 - **Före push:** `--amend`/`rebase -i` OK för städ. **Efter push:** använd **`git revert`** (ändra inte publicerad historik).
 
-## Snabbkontroller (för dig)
+## Snabbkontroller
 - `git log --oneline` på `main` visar 3 (G) / 6 (VG) feature-commits.
 - PR:er har tydliga titlar och varför/hur + länk till issue/kort.
 - Minst 1 PR innehåller en konflikt som du löser och dokumenterar i PR-kommentaren.
+- README komplett + reflection.md ifylld.
+- Reviews: 1+ mottagen och 1 (G) / 2 (VG) given (länkar i README).
