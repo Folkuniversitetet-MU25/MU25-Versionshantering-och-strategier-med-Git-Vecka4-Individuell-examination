@@ -11,10 +11,13 @@ Hur testade du? (manuellt, skärmdump) Beskriv gärna teststeg:
 
 ## Länkar
 - Issue/kort: <URL> (använd gärna "Closes #<nummer>")
+- Trello: <länk>
 
 ## Skärmdump / GIF (valfritt)
 
 ## Checklista
+- [ ] Självtestat lokalt utan fel
+- [ ] README uppdaterad vid behov
 - [ ] Liten, fokuserad PR diff (≈ ≤ 250 rader)
 - [ ] Tydlig PR-titel: `type(scope): kort syfte`
 - [ ] Beskrivning förklarar **varför** och **hur**
