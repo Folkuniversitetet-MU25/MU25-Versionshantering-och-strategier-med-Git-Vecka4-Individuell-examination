@@ -10,11 +10,17 @@
 
 **INVEST – kort motivering (2–4 meningar):**
 Vilka av I, N, V, E, S, T uppfyller storyn och varför?
+- **I**ndependent:  
+- **N**egotiable:  
+- **V**aluable:  
+- **E**stimable:  
+- **S**mall:  
+- **T**estable:  
 
 ## 2) Sprintmål + Definition of Done (DoD)
 **Sprintmål:** (1–2 meningar)
 
-**DoD:**
+**DoD (checklista):**
 - [ ] Kod kör lokalt utan fel
 - [ ] PR granskad och godkänd (minst 1 review)
 - [ ] README uppdaterad
@@ -25,4 +31,9 @@ Vilka av I, N, V, E, S, T uppfyller storyn och varför?
 - **Stop:** (ex. stora PR över 300 rader…)
 - **Continue:** (ex. branch-namn `feature/...`)
 
-> Hänvisa gärna till specifika PR/commits när du beskriver förbättringar.
+Minst **en** konkret förbättring du provar nästa sprint och *varför*.
+
+
+## 4) Hänvisningar (om du söker VG)
+- Förbättring 1 stöds av PR/commit: <länk/ID>
+- Förbättring 2 stöds av PR/commit: <länk/ID>
