@@ -38,10 +38,10 @@ Spara. Klart!
 1) **Todo Lite** *(default, starter-koden funkar direkt)*  
    Lista uppgifter, markera klara/oklara, ta bort, lägg till. *(Bra om du siktar på G.)*  
    
-3) **Bookmarks Mini**  
+2) **Bookmarks Mini**  
    Spara bokmärken (titel + URL), visa lista, öppna i ny flik, ta bort.
    
-5) **Pomodoro Timer**  
+3) **Pomodoro Timer**  
    25/5-minuters timer med start/paus/återställ och räkning av pass.
 
 > Väljer du **Bookmarks Mini** eller **Pomodoro Timer** (VG krav): uppdatera “Valt case”, skapa egna filer/kod (du kan börja från `starter/` eller skriva nytt).
