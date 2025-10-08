@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 ## User story
-**Som** <roll> **vill jag** <mål> **så att** <nytta>.
+"Som" <roll> "vill jag" <mål> "så att" <nytta>.
 
 ## Acceptance Criteria
 - [ ] ...
