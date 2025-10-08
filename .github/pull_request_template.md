@@ -12,8 +12,10 @@ Hur testade du? (manuellt, skärmdump) Beskriv gärna teststeg:
 ## Länkar
 - Issue/kort: <URL> (använd gärna "Closes #<nummer>")
 
+## Skärmdump / GIF (valfritt)
+
 ## Checklista
-- [ ] Liten, fokuserad diff (≈ ≤ 250 rader)
+- [ ] Liten, fokuserad PR diff (≈ ≤ 250 rader)
 - [ ] Tydlig PR-titel: `type(scope): kort syfte`
 - [ ] Beskrivning förklarar **varför** och **hur**
 - [ ] Minst 1 reviewer tillagd
