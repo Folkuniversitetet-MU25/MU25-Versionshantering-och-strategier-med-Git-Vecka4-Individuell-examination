@@ -1,6 +1,8 @@
 # Individuell Examination – Git & Agilt (solo)
 
 > Starta här: Klicka **Use this template** → skapa **privat** repo → bjud in läraren (Collaborator).
+> Var finns knappen? På mall-repots startsida, ovanför fil-listan (nära “Code”).
+Skillnad mot Fork? Template skapar nytt repo utan historik (bättre för uppgifter). Fork kopierar även historik och kopplar till originalet (inte önskat här).
 
 ## Syfte
 Visa Git-flöde (feature-branch → PR → review → merge), hantera minst 1 konflikt, och skriv en kort reflektion om user stories/AC/DoD och förbättringar.
