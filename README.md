@@ -105,10 +105,9 @@ Spara. Klart!
 
 ## Krav (VG) – utöver G
 - 6 features via 6 PR (små, fokuserade).
-- Minst 2 reviews givna (länkar i README).
+- Minst 2 reviews givna (länkar i README). Och minst 2 förbättringar med hänvisning till specifika PR/commits.
 - PR-kvalitet: alla PR ≈ ≤ 250 rader diff + tydlig varför/hur (+ ev. bild/GIF).
 - Historik: varje feature 1 commit i main (squash eller rebase -i); inga brus-commits i main.
-- Reflektionen: minst 2 förbättringar med hänvisning till specifika PR/commits.
 - Du har valt Case: **Bookmarks Mini** eller **Pomodoro Timer**, så du behöver skapa minst motsvarande 3–4 stories med tydliga AC (checkboxar).
 
 ---
@@ -139,6 +138,8 @@ Spara. Klart!
   - Given: <PR-länk>  
   - Mottagen: <PR-länk>  
   - *(VG: lägg till en till given)*
+ 
+## Dela dom/bjud in till läraren: Mail: mandus85@hotmail.com, Github nickname: DutenLobarn
 
 ---
 
