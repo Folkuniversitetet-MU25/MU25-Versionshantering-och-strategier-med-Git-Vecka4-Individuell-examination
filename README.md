@@ -77,7 +77,7 @@ Spara. Klart!
 - **Rubrik:** `type(scope): kort syfte`  *(ex: `feat(list): add age column`)*  
 - **Beskrivning:** **varför** + **hur** + ev. bild/GIF.
 - **Länka** Trello-kort/issue.
-- **Minst 1 review** krävs innan merge.
+- **Minst 1 review** krävs innan merge (för minst 1 PR, behöver inte reviews på alla PR).
 - **Merge:** **Squash & merge** (PR-titel + beskrivning blir commit-meddelande → skriv tydligt).
 
 ---
