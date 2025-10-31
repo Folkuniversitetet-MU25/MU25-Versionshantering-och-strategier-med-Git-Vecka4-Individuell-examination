@@ -100,7 +100,7 @@ Spara. Klart!
   1) Minst 1 **Egen** user story + **AC** + kort **INVEST**-motivering  
   2) **Sprintmål** + **DoD**  
   3) **Start/Stop/Continue** (minst 1 förbättring)
-- **Reviews:** minst **1 mottagen** på dina PR + **1 given** till en klasskamrats PR  
+- **Reviews:** minst **1 mottagen** på EN minst en av dina PR + **1 given** till en klasskamrats PR  
   *(länkar i README under “Mina reviews”)*.
 
 ## Krav (VG) – utöver G
