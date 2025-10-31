@@ -92,7 +92,7 @@ Spara. Klart!
 
 ## Krav (G)
 - README (syfte, hur man kör) + .gitignore.
-- 3 features → 3 PR → review → merge till `main`.
+- 3 features → 3 PR → (minst 1 review på 1 PR, behöver inte 1 review på alla PR) → merge till `main`.
 - Minst 1 avsiktlig **mergekonflikt**, löst och dokumenterad i PR-kommentar.
 - **PR-policy följd** (rubrik, varför/hur, liten diff, länk, 1 review).
 - **Historik i main:** varje feature landar som **1 commit** *(Squash-merge rekommenderas)*.
