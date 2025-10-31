@@ -159,3 +159,10 @@ Spara. Klart!
 - **Minst 1 PR** innehåller en **konflikt** som du **löser och dokumenterar**.
 - **README** komplett + **reflection.md** ifylld.
 - **Reviews:** 1+ mottagen och **1 (G) / 2 (VG)** given (länkar i README).
+
+---
+
+## Presentationer
+
+Fredagen den 7 november under lektions tid, lottning vilka som får presentera live, resten spelar in sina presentationer.
+Max 15 minuters presentation (läraren är inte supersträng på det, men önskar inte för långa =) )
